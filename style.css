@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+
+html
+{
+    background-color:rgb(221, 219, 219);
+}
+
+
+img 
+{
+    width: 400;
+    height: 300;
+}
+
+
+h1
+{
+    font-size: 30;
+    color:coral;
+    margin: 10px;
+}
+
+h2
+{
+    font-size: 25;
+    color: coral;
+    margin: 10px;
+}
+
+p
+{
+
+    padding: 20 px;
+    margin: 10px;
+}
+
+h3
+{
+    font-size: 25;
+    color: coral;
+    margin: 10px;
+}
+
+h4
+{
+    font-size: 25;
+    color: coral;
+    margin: 10px;
+}
+
+footer{
+
+    font-size: 1.2em;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+}
+
+a {
+    font-size: 1.2em;
+    color: coral;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+}
+
+footer > a:hover {
+    color: rgba(255, 145, 0, 0.514);
+}
+
